@@ -8,11 +8,11 @@ It showcases your front-end skills using **HTML**, **CSS**, and **JavaScript**, 
 
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Acknowledgments](#acknowledgments)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Getting Started](#-getting-started)
+- [Acknowledgments](#-acknowledgments)
 
 
 ---
@@ -56,7 +56,7 @@ git clone https://github.com/vighnesh204/anime-portfolio-clone.git
 
 ## 🙌 Acknowledgments
 
-Huge respect to Cynthia Ugwu for creating one of the most inspiring, elegant, and creatively engineered portfolio websites on the web.
+Huge respect to [Cynthia Ugwu](https://cynthiaugwu.com/) for creating one of the most inspiring, elegant, and creatively engineered portfolio websites on the web.
 Her original site sets a benchmark for modern web design, with mesmerizing scroll animations, a bold minimal aesthetic, and smooth user experience that reflects true mastery of interaction design.
 
 This project is a humble attempt to recreate that brilliance, while learning advanced animation techniques and front-end implementation.
