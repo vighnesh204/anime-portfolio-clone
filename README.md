@@ -52,9 +52,10 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/vighnesh204/anime-portfolio-clone.git
 
----
+```
 
 ## 🙌 Acknowledgments
+
 Huge respect to Cynthia Ugwu for creating one of the most inspiring, elegant, and creatively engineered portfolio websites on the web.
 Her original site sets a benchmark for modern web design, with mesmerizing scroll animations, a bold minimal aesthetic, and smooth user experience that reflects true mastery of interaction design.
 
